@@ -6,7 +6,7 @@ This project demonstrates how to interface a sound sensor with the **LPC2148 mic
 ## Features  
 - **Sound Detection**: Captures and processes audio signals from the connected sound sensor.  
 - **Real-Time Monitoring**: Responds to varying sound levels in real time.  
-- **LPC2148 Integration**: Uses GPIO pins and ADC capabilities of LPC2148 for sensor data acquisition.  
+- **LPC2148 Integration**: Uses GPIO pins and ADC capabilities of LPC2148 for sensor data acquisition. 
 
 ## Components Used  
 - **LPC2148 Microcontroller**  
